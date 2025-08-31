@@ -1,9 +1,9 @@
-- Languages
- - Lua, LuaU, JavaScript, Python, C#
+- Languages:
+  Lua, LuaU, JavaScript, Python, C#
 
 
 - Learning
- -  Java, CPP
+  Java, CPP
 
 
 My discord is `priestwillbe`
