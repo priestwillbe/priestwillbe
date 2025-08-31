@@ -2,7 +2,7 @@
   Lua, LuaU, JavaScript, Python, C#
 
 
-- Learning
+- Learning:
   Java, CPP
 
 
