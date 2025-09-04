@@ -8,4 +8,4 @@
 
 My discord is `priestwillbe`
 
-# I have a huge ego.
+# huge ego
