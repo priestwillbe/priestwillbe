@@ -6,6 +6,6 @@
   Java, CPP
 
 
-My discord is `priestwillbe`
+My discord is `priestwannabe`
 
 # huge ego
