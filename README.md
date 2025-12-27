@@ -4,8 +4,3 @@
 
 - Learning:
   Java, CPP
-
-
-My discord is `priestwannabe`
-
-# huge ego
